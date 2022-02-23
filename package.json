@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splidejs/splide": "^3.6.12",
+    "react-router-dom": "^6.2.1"
+  }
+}
