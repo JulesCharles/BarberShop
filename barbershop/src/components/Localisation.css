@@ -1,0 +1,53 @@
+.contactTitle {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 4%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.contactContainer {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    left: 59%;
+    bottom: 105px;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contactMap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 350px;
+    top: 1%;
+}
+
+.jour {
+    line-height: 25px;
+}
+
+.h2 {
+    color: #73605A;
+}
+
+.trouver {
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    color: #A67165;
+}
+
+.horaires {
+    color: #A67165;
+}
+
+.lien {
+color: black;
+}
